@@ -4,7 +4,7 @@
 ## 👋 About Me
 
 - 🎓 Studying Computing & Information Technology (CIT) at Rochester Institute of Technology
-- 🛠️ Currently building a **Spotify Analytics Hub** in Python
+- 🛠️ Currently building **Tideway** — a smart file organizer with live previews, auto-watchers, and instant rollback (Python + FastAPI)
 - 🌱 Always tinkering with new tools and frameworks
 - 💻 GitHub: [@az1213-dev](https://github.com/az1213-dev)
 
