@@ -30,20 +30,20 @@
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🎮 Game Engines
+## 🔐 IT & Systems Administration
 
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Networking & Hardware](https://img.shields.io/badge/Networking%20%26%20Hardware-4B5563?style=for-the-badge)
 
 ## 📚 Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🔐 IT & Systems Administration
+## 🎮 Game Engines
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Networking & Hardware](https://img.shields.io/badge/Networking%20%26%20Hardware-4B5563?style=for-the-badge)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 ## 📊 GitHub Stats
 
