@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Antonio Zapata</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Antonio%20Zapata&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Information%20Technology%20%40%20RIT&descSize=20&descAlignY=60&animation=fadeIn" alt="Antonio Zapata banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Linux+%26+Windows+administration;Networking+%26+cybersecurity;Python+automation;Seeking+an+IT+co-op+%2F+internship+%E2%80%94+Summer+2027" alt="Typing animation"/>
+</p>
 
 <p align="center">
   Information Technology student at <b>RIT</b> focused on Linux/Windows administration, networking, cybersecurity, and Python automation.
   <br/>
   <b>Seeking an IT co-op/internship for Summer 2027.</b>
-</p>
-
-<p align="center">
-  <a href="https://azapata.vercel.app"><img src="https://img.shields.io/badge/Portfolio-azapata.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/antonio-j-zapata"><img src="https://img.shields.io/badge/LinkedIn-antonio--j--zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:azapata12131@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | [**ClutterCtrl**](https://github.com/az1213-dev/clutter-ctrl) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | Zero-dependency CLI file organizer that categorizes files and keeps full rollback history | Dry-run previews, collision-safe renaming, atomic logging for instant rollback, background watcher, CI-tested |
 | [**JSON Analyst**](https://github.com/az1213-dev/json-analyst) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Browser-based JSON analysis and transformation suite | 100% client-side, validation, CSV conversion, interactive tree explorer, auto-repair for broken JSON |
-| [**React Portfolio Site**](https://github.com/az1213-dev/react-portfolio-site) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | End-to-end portfolio site built with component-driven design | Layout, styling, and deployment ([live site](https://azapata.vercel.app)) |
+| [**Portfolio Website**](https://github.com/az1213-dev/react-portfolio-site) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | End-to-end portfolio site built with component-driven design | Layout, styling, and deployment ([live site](https://azapata.vercel.app)) |
 
 ## 🧰 Tech Stack
 
@@ -48,4 +48,21 @@
 
 <p align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=az1213-dev&theme=tokyonight&hide_border=true" alt="Antonio's GitHub streak"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=az1213-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/antonio-j-zapata"><img src="https://img.shields.io/badge/LinkedIn-antonio--j--zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:azapata12131@gmail.com"><img src="https://img.shields.io/badge/Email-azapata12131%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer wave"/>
 </p>
