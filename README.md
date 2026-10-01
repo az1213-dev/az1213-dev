@@ -23,31 +23,11 @@
 
 ## 🚀 Projects
 
-### 🧹 ClutterCtrl — File Automation CLI
-*Python · Pytest · GitHub Actions · Jul – Sep 2026*
-
-A zero-dependency CLI that organizes cluttered folders safely.
-
-- **Dry-run simulations** preview every move before anything touches disk
-- **Collision-safe renaming** so nothing gets overwritten
-- **Atomic logging** enables instant rollback of any run
-- **Background watcher** waits for downloads to finish before acting
-- **Pytest suites** run in a **GitHub Actions** CI pipeline
-
-### 🔍 JSON Analyst — Browser-Based JSON Suite
-*TypeScript · JavaScript · Sep 2026 – Present*
-
-A fully client-side toolkit for working with JSON.
-
-- Validation, **CSV conversion**, and an interactive **tree explorer**
-- An automated **repair tool** that fixes common syntax errors in malformed JSON
-
-## 💼 Experience
-
-| Role | When | Highlights |
-|---|---|---|
-| **STEM & Robotics Instructor**<br/>RoboMind Tech | May – Aug 2026 | Administered lab environments across multiple camp sites: software deployment and network troubleshooting for **25+ Windows workstations**. Built project-based curricula used by **400+ students** (ages 6–16). |
-| **STEM & Robotics Intern**<br/>RoboMind Tech | Sep 2024 – Aug 2025 | Coached a 10-student FIRST LEGO League team to **1st place** at the NYC Regional Qualifiers. Taught **100+ students**, running classes of up to 25 and handling hardware and software troubleshooting. |
+| Name | Technologies | Description | Highlights |
+|---|---|---|---|
+| [**ClutterCtrl**](https://github.com/az1213-dev/clutter-ctrl) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | Zero-dependency CLI file organizer that categorizes files and keeps full rollback history | Dry-run previews, collision-safe renaming, atomic logging for instant rollback, background watcher, CI-tested |
+| [**JSON Analyst**](https://github.com/az1213-dev/json-analyst) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Browser-based JSON analysis and transformation suite | 100% client-side, validation, CSV conversion, interactive tree explorer, auto-repair for broken JSON |
+| [**React Portfolio Site**](https://github.com/az1213-dev/react-portfolio-site) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | End-to-end portfolio site built with component-driven design | Layout, styling, and deployment ([live site](https://azapata.vercel.app)) |
 
 ## 🧰 Tech Stack
 
@@ -62,10 +42,6 @@ A fully client-side toolkit for working with JSON.
 | **Cloud & Productivity** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Game Dev** | ![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white) ![Minecraft Education](https://img.shields.io/badge/Minecraft_Education-62B47A?style=flat-square&logo=minecraft&logoColor=white) |
 | **Learning** 📚 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-## 🎓 Relevant Coursework
-
-Introduction to Cybersecurity · Routing & Switching · Computer System Concepts · Database & Data Modeling · Software Development & Problem Solving · Web & Mobile I–II
 
 ## 📊 GitHub Stats
 
