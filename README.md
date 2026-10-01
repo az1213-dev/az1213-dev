@@ -59,8 +59,8 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/antonio-j-zapata"><img src="https://img.shields.io/badge/LinkedIn-antonio--j--zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:azapata12131@gmail.com"><img src="https://img.shields.io/badge/Email-azapata12131%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/antonio-j-zapata"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:azapata12131@gmail.com"><img src="https://img.shields.io/badge/Send_me-an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
